@@ -115,4 +115,4 @@ $ sails lift
 	- GET http://localhost:[portServerStarted]/user/[userCreated]/cart/calculateDelivery
 
 
-### This backEnd have supported for SocketIO, JWT Authentication, Policies, and others.
+##### This backEnd have support for SocketIO, JWT Authentication, Policies, and others.
